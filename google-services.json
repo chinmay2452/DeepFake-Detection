@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "895590178338",
+    "project_id": "deepfake-dec",
+    "storage_bucket": "deepfake-dec.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895590178338:android:3880f4a7ce6f9c170b347b",
+        "android_client_info": {
+          "package_name": "com.example.deepfake_detection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOdTZHoCIZW6LlVJORKhzt_uXz-HNBDEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
